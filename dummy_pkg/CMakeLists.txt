@@ -12,6 +12,4 @@ include_directories(
 catkin_package(
   CATKIN_DEPENDS
     base_pkg
-  DEPENDS
-    GAZEBO
 )
